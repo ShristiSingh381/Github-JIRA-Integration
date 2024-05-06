@@ -28,7 +28,7 @@ def createJira():
                 {
                     "content": [
                         {
-                            "text": "Order entry fails when selecting supplier.",
+                            "text": "My First Jira Ticket",
                             "type": "text"
                         }
                     ],
@@ -44,7 +44,7 @@ def createJira():
         "issuetype": {
             "id": "10006"
         },
-        "summary": "Main order flow broken",
+        "summary": "First JIRA ticket",
     },
     "update": {}
     } )
